@@ -142,6 +142,6 @@ MESSAGE_TAGS = {
 # SMTP configuration
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'dummymails720@gmail.com'
-EMAIL_HOST_PASSWORD = 'winterboulder'
+EMAIL_HOST_USER = 'dmails@gmail.com'
+EMAIL_HOST_PASSWORD = 'xyz'
 EMAIL_USE_TLS = True
